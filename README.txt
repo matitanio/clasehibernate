@@ -8,4 +8,7 @@ c:\\universidad\tallerjava\hibernate\src\main\resources\hibernate.db
 
 modifico el readme desde el eclipse
 
-ahora modifico desde la line a de comando
+ahora modifico desde l
+
+
+shkshklfhskjfhkds–
