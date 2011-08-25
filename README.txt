@@ -6,3 +6,6 @@ A modo de ejemplo si al descomprimir el proyecto este queda en c:\\universidad\t
 
 c:\\universidad\tallerjava\hibernate\src\main\resources\hibernate.db
 
+modifico el readme desde el eclipse
+
+
